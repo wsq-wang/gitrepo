@@ -1,0 +1,2 @@
+﻿--测试Git删除提交的文件
+test Git delete files.
